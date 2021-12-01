@@ -2,14 +2,14 @@
 It's a simple `.js` script that exploits `klase.eduka.lt` api
 and gives you the access to all the answers your questions.
 
-## How it works?
+## How it works
 `klase.eduka.lt` made a huge mistake by not protecting their 
 api and basically giving access to anyone who want's to use it.
 So just by getting eduka assignment id and using edukas api
 we easily getting all the answers. 
 
 ## How to use?
-- Open developer console window in yout eduka session tap.
+- Open developer console window in your eduka session.
 - Paste the script and execute it by pressing `[ENTER]`.
 - Then search for your question name in that `.xml` page, scroll a little bit lower and you will see all of your answers to your question.
 
