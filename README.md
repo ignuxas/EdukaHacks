@@ -1,4 +1,4 @@
-# EdukaHacks
+# EdukaHacks [DISCONTINUED]
 It's a simple `.js` script that exploits `klase.eduka.lt` api
 and gives you the access to all the answers your questions.
 
